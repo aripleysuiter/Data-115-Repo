@@ -4,9 +4,9 @@ This is a repository for my DATA115 personal dataset project. At this time (week
 At this time (week 7) I have decided to see how different positions, as well as conferences, and specific teams achievement in college translate to NFL statistics with a few years worth of data. This is subject to change to a more analyzable and concrete research direction if too many issues with consistency arise
 
 Here will be the .csv for the NFL draft order. This information was provided by the excellent [ProFootballRefernece](https://www.pro-football-reference.com/) 
-
+_________ 
 this is 2019NFLDraft.csv
-
+_________
 Here will be the .csv for the college stats of these NFL rookies. Will somehow want to integrate a filter of positions and of grade - this would have a lot of varience in types of stats so it is important to sort by these 
 
 Here will be the .csv for NFL rookie statistics from 2019-20
