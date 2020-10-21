@@ -5,7 +5,7 @@ At this time (week 7) I have decided to see how different positions, as well as 
 
 Here will be the .csv for the NFL draft order. This information was provided by the excellent [ProFootballRefernece](https://www.pro-football-reference.com/) 
 
-git 2019NFLDraft.csv
+2019NFLDraft.csv
 
 Here will be the .csv for the college stats of these NFL rookies. Will somehow want to integrate a filter of positions and of grade - this would have a lot of varience in types of stats so it is important to sort by these 
 
